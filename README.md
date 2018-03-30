@@ -7,7 +7,7 @@ There a handful of okay(ish) OCR based apps that can scan a printed diagram of a
 This project is an attempt to combine the scanner apps that exist thus far, with real over the board play. My ideal scenario is for a user to be able to take a picture of the position from a viewing angle as close to how it is naturally through the user's eyes and then for the application to correctly derive the position, translate it into the desired game notation, and then provide on the spot analysis via an engine. One step further could even be the ability to augment the image with some positional guidance like best move and potential warning indicators to turn into a dynamically useful training aid. From experience, I am aware that the cost of having a dedicated chess laptop with up-to-date analysis engines and game databases can run into the thousands. If this smartphone app can make that kind of training aid more accessible to the equally as capable but less fortunate player then it will be a worthy project. I predict problems, pitballs, and nightmares aplenty, but I'll keep grinding until I get it done.
 
 ## Technology
-Nothing is set in stone but I predict a blend of OpenCV, Tensorflow, Stockfish and whatever I need for the OSX and Android SDKs.
+Nothing is set in stone but I predict a blend of OpenCV, Tensorflow, Stockfish, and whatever I need for the OSX and Android SDKs.
 
 ## High-level Plan
 Coming soon.
