@@ -1,4 +1,4 @@
-# ChessVision
+# ChessView
 An application that can detect and analyse a position on a real chessboard via a smartphone camera. I'm simply interested to see if I can improve on the ideas [Maciej A. Czyzewski](https://github.com/maciejczyzewski/neural-chessboard), [Jailin Ding](https://github.com/jialinding/ChessVision), and [Daylen Yang](https://github.com/jialinding/ChessVision).
 
 
